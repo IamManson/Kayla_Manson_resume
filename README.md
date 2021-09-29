@@ -1,4 +1,4 @@
-# My Next.js Developer Portfolio
+# My Online Resume
 
 Deployed app can be found here: https://iammanson.github.io/Kayla_Manson_resume/
 
